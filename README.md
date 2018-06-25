@@ -8,3 +8,4 @@ Bienvenido! Este repositorio contiene material para las sesiones prácticas del 
 * notebook python: https://github.com/RamirezAmayaS/mlandpp-uniandes/python/python.ipynb
 * descarga máquina virtual: https://drive.google.com/file/d/11Bh0LhV0HY49mXHP_8-mLp2KiUtPSeiT/view?usp=sharing
 * descarga Oracle VirtualBox: https://www.virtualbox.org/wiki/Downloads
+* spreadsheet con cuentas de GitHub: https://docs.google.com/spreadsheets/d/1kOkfddEuyU015pE7jUe__mK59cnTEI2-BHIWliUnHv8/edit#gid=0
