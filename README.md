@@ -3,9 +3,9 @@ Bienvenido! Este repositorio contiene material para las sesiones prácticas del 
 
 ## Recursos importantes
 * nbviewer: https://nbviewer.jupyter.org/
-* notebook bash: https://github.com/RamirezAmayaS/mlandpp-uniandes/bash/bash.ipynb
-* notebook git: https://github.com/RamirezAmayaS/mlandpp-uniandes/git/git.ipynb
-* notebook python: https://github.com/RamirezAmayaS/mlandpp-uniandes/python/python.ipynb
+* notebook bash: https://github.com/RamirezAmayaS/mlandpp-uniandes/blob/master/bash/bash.ipynb
+* notebook git: https://github.com/RamirezAmayaS/mlandpp-uniandes/blob/master/git/git.ipynb
+* notebook python: https://github.com/RamirezAmayaS/mlandpp-uniandes/blob/master/python/python.ipynb
 * descarga máquina virtual: https://drive.google.com/file/d/11Bh0LhV0HY49mXHP_8-mLp2KiUtPSeiT/view?usp=sharing
 * descarga muestra suficiencia.csv https://drive.google.com/file/d/11Bh0LhV0HY49mXHP_8-mLp2KiUtPSeiT/view?usp=sharing
 * descarga Oracle VirtualBox: https://www.virtualbox.org/wiki/Downloads
