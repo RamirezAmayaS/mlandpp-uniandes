@@ -6,7 +6,7 @@ Bienvenido! Este repositorio contiene material para las sesiones prácticas del 
 * notebook bash: https://github.com/RamirezAmayaS/mlandpp-uniandes/blob/master/bash/bash.ipynb
 * notebook git: https://github.com/RamirezAmayaS/mlandpp-uniandes/blob/master/git/git.ipynb
 * notebook python: https://github.com/RamirezAmayaS/mlandpp-uniandes/blob/master/python/python.ipynb
-* descarga máquina virtual: https://drive.google.com/file/d/11Bh0LhV0HY49mXHP_8-mLp2KiUtPSeiT/view?usp=sharing
+* descarga máquina virtual: https://www.dropbox.com/s/7jcv3kzf5tykm3h/ubuntu.ova?dl=0
 * descarga muestra suficiencia.csv https://drive.google.com/file/d/11Bh0LhV0HY49mXHP_8-mLp2KiUtPSeiT/view?usp=sharing
 * descarga Oracle VirtualBox: https://www.virtualbox.org/wiki/Downloads
 * spreadsheet con cuentas de GitHub: https://docs.google.com/spreadsheets/d/1kOkfddEuyU015pE7jUe__mK59cnTEI2-BHIWliUnHv8/edit#gid=0
