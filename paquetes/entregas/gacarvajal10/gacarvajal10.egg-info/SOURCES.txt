@@ -1,8 +1,0 @@
-gacarvajal10/__init__.py
-gacarvajal10/unsupervised.py
-gacarvajal10.egg-info/PKG-INFO
-gacarvajal10.egg-info/SOURCES.txt
-gacarvajal10.egg-info/dependency_links.txt
-gacarvajal10.egg-info/not-zip-safe
-gacarvajal10.egg-info/requires.txt
-gacarvajal10.egg-info/top_level.txt
