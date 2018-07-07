@@ -1,5 +1,4 @@
 import numpy as np
-import math
 
 def centroide(k,data,cent):
     n = np.array(data.shape)[0]
@@ -8,7 +7,7 @@ def centroide(k,data,cent):
         diff = cent[counter,:] - data
         diff2 = diff**2
         diffm = diff2[:,0] + diff2[:,1]
-        distance = [math.sqrt(x) for x in diffm]
+        distance = [ x**(1/2) for x in diffm]
         dataF[:,counter] = distance
     dataC = np.zeros(shape=(k,2),dtype=float)
     indice = np.argmin(dataF,1)
