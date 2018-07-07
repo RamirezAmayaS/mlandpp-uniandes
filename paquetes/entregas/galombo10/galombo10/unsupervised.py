@@ -22,8 +22,8 @@ def kmeans(data,k):
     center = np.random.rand(k,2)
     while True:
         new_center = centroide(k,data,center)
-        comp = (center - new_center).sum()
-        if comp == 0:
+        comp = center - new_center
+        if np.all(comp == 0):
             center = new_center
             break
         else:
