@@ -7,5 +7,5 @@ setup(name='galombo10',
       author_email='ga.lombo10@uniandes.edu.co',
       license='MIT',
       packages=['galombo10'],
-      install_requires=['numpy','math'],
+      install_requires=['numpy'],
       zip_safe=False)
