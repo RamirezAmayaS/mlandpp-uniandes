@@ -7,7 +7,7 @@ def centroide(k,data,cent):
         diff = cent[counter,:] - data
         diff2 = diff**2
         diffm = diff2[:,0] + diff2[:,1]
-        distance = [ x**(1/2) for x in diffm]
+        distance = [ x**0.5 for x in diffm]
         dataF[:,counter] = distance
     dataC = np.zeros(shape=(k,2),dtype=float)
     indice = np.argmin(dataF,1)
