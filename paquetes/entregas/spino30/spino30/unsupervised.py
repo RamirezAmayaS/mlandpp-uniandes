@@ -54,5 +54,4 @@ def kmeans(puntos, K, maxIters = 10):
         centroides = [puntos[C == k].mean(axis = 0) for k in range(K)]
 #La función me regresará el valor de los centroides
     return np.array(centroides)
-#imprimir el valor de k medias
-print(kmeans(puntos, k))
+
